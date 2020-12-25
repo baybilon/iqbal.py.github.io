@@ -15,7 +15,7 @@ module.exports = {
     {
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/baybilon',
     },
     {
       icon: 'fa-github',
